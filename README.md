@@ -1,2 +1,2 @@
-# personal-spring
+# personal-spring-boot
 Personal backend written in Spring Boot
